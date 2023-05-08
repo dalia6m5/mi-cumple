@@ -1,0 +1,2 @@
+"use strict";(self["webpackChunklandingcumple"]=self["webpackChunklandingcumple"]||[]).push([[443],{1168:function(n,u,t){t.r(u),t.d(u,{default:function(){return c}});var l=function(){var n=this;n._self._c;return n._m(0)},e=[function(){var n=this,u=n._self._c;return u("div",{staticClass:"about"},[u("h1",[n._v("This is an about page")])])}],s=t(1001),a={},i=(0,s.Z)(a,l,e,!1,null,null,null),c=i.exports}}]);
+//# sourceMappingURL=about.a0124bdc.js.map
